@@ -29452,12 +29452,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x3d8D93a23016F33d3e05eea20004e8bB9f528845",
-      "transactionHash": "0xaf8e2938d57ad3e8bfa68bab18faea9176321d4c37ba5dba0ae2a6793afec796"
+      "address": "0x15F41243778fD566483284bF5303c618d1005557",
+      "transactionHash": "0x9ecefa7b622be09453097dcef560ab473d1bf536eacb9272a0fe1c5092498567"
     }
   },
   "schemaVersion": "3.4.11",
-  "updatedAt": "2026-02-25T15:44:06.637Z",
+  "updatedAt": "2026-02-25T17:11:39.182Z",
   "networkType": "ethereum",
   "devdoc": {
     "details": "Smart contract for managing initialization operations, loan applications, and guarantee payments This contract implements a multi-authority attribute-based encryption system combined with a loan application and guarantee payment workflow",
