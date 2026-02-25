@@ -10,6 +10,9 @@ We design BLINK in two variants, depending on the application scenario: **BLINK_
 
 This GitHub repository provides the reference implementation of **BLINK_public**. The implementation is based upon [MARTSIA](https://github.com/apwbs/MARTSIA).
 
+## Wiki
+For a detailed documentation and step-by-step tutorial to run this version locally, check out the [Wiki](https://github.com/apwbs/BLINK/wiki).
+
 ## Literature and links
 Selected publications about BLINK follow.
 
