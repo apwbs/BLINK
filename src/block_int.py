@@ -8,7 +8,7 @@ ganache_url = "http://127.0.0.1:7545"
 web3 = Web3(Web3.HTTPProvider(ganache_url))
 
 compiled_contract_path = '../blockchain/build/contracts/CGSContract.json'
-deployed_contract_address = config('CONTRACT_ADDRESS_CGS')
+deployed_contract_address = config('CONTRACT_ADDRESS_BLINK')
 
 verbose = False
 
