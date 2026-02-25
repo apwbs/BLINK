@@ -31,7 +31,7 @@ Please find the BibTeX below for convenience:
   number = {1},
   journal = {Financial Innovation},
   publisher = {Springer Science and Business Media LLC},
-  author = {Leo,  Sabrina and Panetta,  Ida Claudia and Delle Foglie,  Andrea and Barbaro,  Luca and Marangone,  Edoardo and Di Ciccio,  Claudio},
+  author = {Leo,  Sabrina and Panetta, Ida Claudia and Delle Foglie, Andrea and Barbaro, Luca and Marangone, Edoardo and Di Ciccio, Claudio},
   year = {2026},
   month = {feb} 
 }
