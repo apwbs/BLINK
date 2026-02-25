@@ -8,7 +8,7 @@ Credit guarantee institutions (CGIs) enhance access to financing for underserved
 The solution is built upon two pillars: _(i)_ a **distributed storage system**, namely a permanent, tamper-proof, and decentralized storage unit for information artifacts; and _(ii)_ a **programmable blockchain**, enabling workflow automation while securely tracking execution in a non-modifiable, distributed transaction ledger. 
 We design BLINK in two variants, depending on the application scenario: **BLINK_private**, which leverages private permissionless blockchains, and **BLINK_public**, which leverages public permissionless blockchains. 
 
-This GitHub repository provides the reference implementation of **BLINK_public**.
+This GitHub repository provides the reference implementation of **BLINK_public**. The implementation is based upon [MARTSIA](https://github.com/apwbs/MARTSIA).
 
 ## Literature and links
 Selected publications about BLINK follow.
